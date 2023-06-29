@@ -1,4 +1,4 @@
-### Hi there 👋
+Full time software developer, part time nerd. I'm at my happiest finding ways to integrate technology systems into my hobbies and daily life. Academic experience in C, C++, Java, Python (Flask, SQLAlchemy), JavaScript (React, Redux, Express, Sequelize), SQL (MySQL, Postgres, SQLite), HTML, and CSS. Professional experience in Java & DBM.
 
 <!--
 **xShirokuma/xShirokuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
